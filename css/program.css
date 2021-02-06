@@ -1,0 +1,87 @@
+*{
+  font-family: 'Zilla Slab', serif;
+}
+.container{
+    width: 100%;
+    height: 100%;
+}
+a:visited {
+    color:black;
+    text-decoration:none
+}
+.menu ul{
+    display:  inline-flex;
+    margin: 50px;
+}
+.menu ul li{
+    list-style: none;
+    margin: 0 75px;
+    color: #b1b1b1;
+    cursor: pointer;
+}
+
+.active {
+    color: #000000 !important;
+}
+.Banner {
+    width: 80%;
+    height: 70%;
+    top:  25%;
+    left: 50px;
+    position: absolute;
+    color: white;
+}
+.Banner1 {
+    width: 80%;
+    height: 70%;
+    top:  120%;
+    left: 50px;
+    position: absolute;
+    color: white;
+}
+.Banner2 {
+    width: 80%;
+    height: 70%;
+    top:  215%;
+    left: 50px;
+    position: absolute;
+    color: white;
+}
+.Banner3 {
+    width: 80%;
+    height: 70%;
+    top:  310%;
+    left: 50px;
+    position: absolute;
+    color: white;
+}
+.app-text{
+    width: 50%;
+    float: left;
+}
+.app-text h1{
+    font-size: 43px;
+    width: 640px;
+    position: relative;
+    margin-left: 40px;
+}
+.app-text p{
+    width: 650px;
+    font-size: 25px;
+    margin: 30px 0 30px 40px;
+    line-height: 25px;
+    color: white;
+}
+.app-picture {
+    margin-top: -250px;
+    margin-left: 700px;
+    width: 40%;
+}
+.app-picture img {
+    width: 150%;
+}
+
+
+body {
+    background: #59405C;
+   }

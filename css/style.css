@@ -1,0 +1,76 @@
+*{
+  font-family: 'Zilla Slab', serif;
+}
+
+#title{
+  background-color: #232828;
+  padding-top: 2%;
+  padding-left: 7%;
+  padding-right: 10%;
+  color: white;
+
+}
+h1{
+  font-weight: bold;
+  margin-top:60px;
+
+}
+h2{
+  font-weight: bold;
+}
+.title-img{
+  width: 600px;
+}
+.title-dsc{
+  padding-top: 25px;
+}
+.navbar{
+
+
+
+}
+.down-button{
+  margin-top: 20px;
+  margin-right: 15px;
+}
+
+#features{
+  padding-top: 10%;
+  padding-left: 7%;
+  padding-right: 10%;
+  text-align: center;
+}
+.feature-fas{
+  font-size: 50px;
+  color: #e23e57;
+  margin-bottom: 20px;
+}
+
+
+
+
+#slide{
+  background-color: white;
+  text-align: center;
+
+}
+
+.subject{
+
+  height:400px;
+
+}
+
+#pricing{
+  padding-top: 10%;
+  padding-left: 15%;
+  padding-right: 10%;
+  text-align: center;
+}
+
+.card{
+  width: 300px;
+}
+.price-row{
+  margin-top: 100px;
+}
